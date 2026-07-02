@@ -165,14 +165,9 @@ Train not found!
 
 ---
 
-## 🎥 Project Explanation Video
+## 🎥 Project Video
 
-Click the link below to watch the complete project explanation video:
-
-**▶️ [Watch Project Explanation Video]((https://drive.google.com/file/d/15QPgG3syiakeOPWaeQdp2wen8X9xFjfh/view?usp=sharing))**
-
-
----
+[Project Explanation Video](https://drive.google.com/file/d/15QPgG3syiakeOPWaeQdp2wen8X9xFjfh/view?usp=sharing)
 
 ## ✅ Conclusion
 
