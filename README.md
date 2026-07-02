@@ -177,6 +177,5 @@ This Railway Reservation System project helped me understand the practical imple
 
 ## 👩‍💻 Author
 
-**Shriya Patel (Siya)**
+**Shriya Patel **
 
-BCA Student
